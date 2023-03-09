@@ -1,0 +1,5 @@
+tmp/
+targets/x86_64/iso/boot/kernel.bin
+dist/x86_64/
+build/
+run.sh
